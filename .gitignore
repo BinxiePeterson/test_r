@@ -2,3 +2,4 @@
 *.html
 eda_files/
 renv/
+/.quarto/
